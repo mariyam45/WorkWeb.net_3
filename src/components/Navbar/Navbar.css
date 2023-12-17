@@ -1,0 +1,9 @@
+.apply_btn {
+  background: linear-gradient(to left, #8457ff, #7e90fe) !important;
+  color: white !important;
+}
+
+.logo {
+  font-weight: 700 !important;
+  font-size: 1.2rem;
+}

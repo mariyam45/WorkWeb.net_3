@@ -1,0 +1,61 @@
+.title .img2 {
+  position: absolute;
+  top: 0 !important;
+  right: 0;
+  height: 150px;
+}
+.title .img1 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 150px;
+}
+.title h2 {
+  position: relative;
+  top: 50%;
+  left: 48%;
+  transform: translate(-50% -50%);
+}
+.title {
+  position: relative;
+  background: linear-gradient(to bottom left, #faedff, #ffffff) !important;
+  height: 200px;
+}
+.details_left p {
+  color: #757575;
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+.details_left span {
+  font-weight: bold;
+  color: #1a1919;
+}
+.details_right_card {
+  background: #7e8ffe2c;
+  border-radius: 6px;
+}
+.details_right_card p {
+  display: inline-block;
+}
+.details_right_card img {
+  display: inline-block;
+  margin-right: 8px;
+}
+.details_right_card .titles {
+  color: #1a1919;
+  font-weight: bold;
+}
+.details_right_card hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: rgb(14, 14, 14);
+}
+.details_right button {
+  background: linear-gradient(to left, #8457ff, #7e90fe) !important;
+  color: white !important;
+}
+.details_right_card span {
+  color: #1a1919;
+  font-weight: 600;
+  display: inline-block;
+}

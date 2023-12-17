@@ -1,0 +1,26 @@
+.category {
+  margin: 10px;
+  width: 95%;
+  padding: 20px 30px;
+
+  background-image: conic-gradient(
+    #fbf2ff 0deg,
+    #fbf2ff 180deg,
+    #f6f7ff 180deg,
+    #f6f7ff 260deg
+  );
+}
+h2 {
+  font-size: 1.2rem !important;
+  font-weight: bold !important;
+  color: #474747;
+}
+p {
+  color: #a3a3a3;
+}
+.category img {
+  width: 60px !important;
+  background: #ece2fd !important;
+  border-radius: 8%;
+  /* padding: 8px !important; */
+}

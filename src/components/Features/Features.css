@@ -1,0 +1,14 @@
+.feat h1 {
+  font-size: 40px !important;
+  font-weight: 700;
+  color: #1a1919 !important;
+}
+.feat p {
+  color: #757575;
+  font-size: 16px;
+}
+.features {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}

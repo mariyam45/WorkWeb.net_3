@@ -1,0 +1,13 @@
+.start_btn {
+  background: linear-gradient(to left, #8457ff, #7e90fe) !important;
+  color: white !important;
+}
+.dream-txt {
+  color: #8457ff;
+}
+.h1 {
+  line-height: 20px !important;
+}
+.hero_bg {
+  background: linear-gradient(to bottom left, #faedff, #ffffff) !important;
+}

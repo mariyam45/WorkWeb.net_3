@@ -1,0 +1,21 @@
+.job {
+  border: 0.5px solid rgb(216, 216, 216);
+  padding: 30px;
+  border-radius: 8px;
+  text-align: left;
+}
+.job img {
+  margin: 0 0 10px 0;
+}
+.type_time span {
+  border: 1px solid #8457ff;
+  margin-right: 20px;
+  margin-top: 8px;
+  padding: 3px 5px;
+  color: #8457ff;
+  border-radius: 5px;
+}
+.job_dtls_btn {
+  background: linear-gradient(to left, #8457ff, #7e90fe) !important;
+  color: white !important;
+}

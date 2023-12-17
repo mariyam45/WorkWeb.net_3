@@ -1,0 +1,15 @@
+.categories {
+  display: grid;
+  /* grid-template-columns: repeat(4, 1fr); */
+  gap: 10px;
+}
+
+.cate h1 {
+  font-size: 40px !important;
+  font-weight: 700;
+  color: #1a1919 !important;
+}
+.cate p {
+  color: #757575;
+  font-size: 16px;
+}
